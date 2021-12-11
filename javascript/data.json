@@ -1,0 +1,21 @@
+{
+    "profile":[{
+    "img":"giet 3.jpg",
+    "name":"Ammu",
+    "pin":537,
+    "branch":"CSE"   
+},
+{
+    "img":"giet logo.png",
+    "name":"Reetu",
+    "pin":554,
+    "branch":"CSE"
+},
+{
+    "img":"giet logo.png",
+    "name":"GIER",
+    "pin":1234,
+    "branch":"CSE"
+    
+}]
+}
